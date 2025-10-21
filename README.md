@@ -1,4 +1,4 @@
-# 1221Systems — Retail Forecasting Demo (Time Series)
+# Retail Forecasting Demo (Time Series)
 
 Небольшой демонстрационный проект под вакансию Junior Data Scientist: прогнозирование продаж в ретейле.
 Акцент на **Python + pandas + scikit-learn + FastAPI + SQL** и валидацию на временных рядах.
