@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+pydantic
+joblib
+plotly
+holidays
+# optional
+lightgbm
+catboost
+prophet
